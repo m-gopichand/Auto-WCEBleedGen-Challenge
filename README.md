@@ -25,7 +25,7 @@ These results are evaluated using validation data.
 ## Validation Dataset Results
 
 ### Classification Screenshots
-![Predictions](Classification\classification.png)
+![Predictions](classification.png)
 
 
 ### Detection Screenshots
@@ -33,9 +33,9 @@ These results are evaluated using validation data.
 
 ### Interpretability Plots
 
-![CAM 1](Classification\CAM1.png)
+![CAM 1](CAM1.png)
 
-![CAM 2](Classification\CAM2.png)
+![CAM 2](CAM2.png)
 
 
 ## Testing Dataset Results
@@ -45,7 +45,7 @@ These results are evaluated using validation data.
 #### Classification
 Predictions
 
-![CAM 2](Classification\Test1.png)
+![CAM 2](Test1.png)
 
 #### Detection Screenshots  
 
