@@ -29,7 +29,7 @@ These results are evaluated using validation data.
 
 
 ### Detection Screenshots
-![Alt Text]()
+
 
 ### Interpretability Plots
 
