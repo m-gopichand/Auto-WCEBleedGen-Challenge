@@ -42,17 +42,14 @@ These results are evaluated using validation data.
 
 ### Dataset 1
 
-#### Classification Screenshots
+#### Classification
+Predictions
 
+![CAM 2](Classification\Test1.png)
 
 #### Detection Screenshots  
 
 
-#### Interpretability Plots
-
-Here are screenshots/pictures of the interpretability plots for the same 5 best images from testing dataset 1.
-
-[Insert interpretability plots here]
 
 ### Dataset 2
 
