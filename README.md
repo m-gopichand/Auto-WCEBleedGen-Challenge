@@ -53,17 +53,12 @@ Predictions
 
 ### Dataset 2
 
-#### Classification and Detection Screenshots
+#### Classification
+Predictions
 
-Here are screenshots/pictures of the 5 best images selected from testing dataset 2, showing their classification and detection with bounding boxes and confidence levels.
+![CAM 2](Test2.png)
 
-[Insert screenshots here]
-
-#### Interpretability Plots
-
-Here are screenshots/pictures of the interpretability plots for the same 5 best images from testing dataset 2.
-
-[Insert interpretability plots here]
+#### Detection Screenshots  
 
 
 
