@@ -11,10 +11,10 @@ Automatic Detection and Classification of Bleeding and Non-Bleeding frames in Wi
   - [Detection ](#detection-screenshots)
   - [Interpretability Plots](#interpretability-plots)
 - [Testing Dataset Results](#testing-dataset-results)
-  - [Dataset 1](#dataset-1)
+  - [Test Dataset 1](#dataset-1)
     - [Classification](#classification)
     - [Detection ](#detection-screenshots)
-  - [Dataset 2](#dataset-2)
+  - [Test Dataset 2](#dataset-2)
     - [Classification](#classification)
     - [Detection](#detection-screenshots)
 
