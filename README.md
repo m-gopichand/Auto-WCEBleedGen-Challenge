@@ -7,16 +7,16 @@ Automatic Detection and Classification of Bleeding and Non-Bleeding frames in Wi
   - [Classification Report](#classification-report)
   - [Detection](#detection)
 - [Validation Dataset Results](#validation-dataset-results)
-  - [Classification Screenshots](#classification-screenshots)
-  - [Detection Screenshots](#detection-screenshots)
+  - [Classification ](#classification-screenshots)
+  - [Detection ](#detection-screenshots)
   - [Interpretability Plots](#interpretability-plots)
 - [Testing Dataset Results](#testing-dataset-results)
   - [Dataset 1](#dataset-1)
     - [Classification](#classification)
-    - [Detection Screenshots](#detection-screenshots)
+    - [Detection ](#detection-screenshots)
   - [Dataset 2](#dataset-2)
     - [Classification](#classification)
-    - [Detection Screenshots](#detection-screenshots)
+    - [Detection](#detection-screenshots)
 
 ## Introduction
 This README provides an overview of the Auto-WCEBleedGen Challenge project, which focuses on the automatic detection and classification of bleeding and non-bleeding frames in wireless capsule endoscopy.
