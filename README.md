@@ -18,9 +18,9 @@ These results are evaluated using validation data.
 
 | Metric                  | Value |
 |-------------------------|-------|
-| Average Precision       |       |
-| Mean Average Precision  |       |
-| Intersection over Union |       |
+| Average Precision       |0.81742|
+| Mean Average Precision  |0.57529|
+| Intersection over Union |0.67174|
 
 ## Validation Dataset Results
 
@@ -29,7 +29,7 @@ These results are evaluated using validation data.
 
 
 ### Detection Screenshots
-
+![Predictions](detection.jpg)
 
 ### Interpretability Plots
 
@@ -45,10 +45,11 @@ These results are evaluated using validation data.
 #### Classification
 Predictions
 
-![CAM 2](Test1.png)
+![Test 1](Test1.png)
 
 #### Detection Screenshots  
 
+![Test 1](dTest1.jpg)
 
 
 ### Dataset 2
@@ -56,9 +57,9 @@ Predictions
 #### Classification
 Predictions
 
-![CAM 2](Test2.png)
+![Test 2](Test2.png)
 
 #### Detection Screenshots  
 
-
+![Test 2](dTest2.jpg)
 
